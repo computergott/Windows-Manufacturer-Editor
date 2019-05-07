@@ -69,6 +69,6 @@
     End Sub
 
     Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
-        Process.Start("http://computergott.eu/")
+        Process.Start("http://computergott.eu")
     End Sub
 End Class
