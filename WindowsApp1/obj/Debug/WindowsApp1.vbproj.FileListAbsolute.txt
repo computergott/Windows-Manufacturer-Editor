@@ -1,0 +1,54 @@
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.exe.config
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.exe
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.pdb
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.xml
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.exe
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.xml
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.pdb
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Editor.resources
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Logo.resources
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.exe.config
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.exe
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.pdb
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.xml
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Editor.resources
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Logo.resources
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.exe
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.xml
+C:\Users\Tester\Desktop\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.pdb
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.exe.config
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.exe
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.pdb
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\bin\Debug\Windows Manufacturer Editor.xml
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Editor.resources
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Logo.resources
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.exe
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.xml
+\\nas01\NAS01\NAS01\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\Windows Manufacturer Editor.pdb
+X:\Visual Studio\WSR\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Logoanalysator.resources
